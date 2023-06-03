@@ -6,8 +6,8 @@
 ## General info
 
 <details>
-<summary>Click here to see general information about <b>Flask_exercise1</b>!</summary>
-<b>Flask_exercise1</b> is a simple REST API application in Python that allows users to manage their
+<summary>Click here to see general information about <b>Flask_exercise2</b>!</summary>
+<b>Flask_exercise2</b> is a simple REST API application in Python that allows users to manage their
 notes. Upon selecting the desired option and providing the necessary information, the program will 
 send appropriately formatted HTTP requests to a Flask API to modify the note database. 
 For simplicity, we assume that there is no authentication required for connecting to the API."
